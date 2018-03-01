@@ -9,4 +9,4 @@
 
 ## Unity 3D
 
-* [2017] [Unity Application Testing Automation (Automated UI testing)](https://www.youtube.com/watch?v=kfPGUShSUy8)
+* [2017] [Unity Application Testing Automation (Automated UI testing)](https://www.youtube.com/watch?v=kfPGUShSUy8) - Evgeny Pyshkin, Maxim Mozgovoy
