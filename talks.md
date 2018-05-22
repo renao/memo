@@ -10,8 +10,8 @@
 
 ## Misc
 
-[2016] [SpiegelMining - Reverse Engineering von Spiegel-Online](https://media.ccc.de/v/33c3-7912-spiegelmining_reverse_engineering_von_spiegel-online) [german] - David Kriesel
-[2015] [Traue keinem Scan, den du nicht selbst gefälscht hast](https://media.ccc.de/v/31c3_-_6558_-_de_-_saal_g_-_201412282300_-_traue_keinem_scan_den_du_nicht_selbst_gefalscht_hast_-_david_kriesel) [german] - David Kriesel
+* [2016] [SpiegelMining - Reverse Engineering von Spiegel-Online](https://media.ccc.de/v/33c3-7912-spiegelmining_reverse_engineering_von_spiegel-online) [german] - David Kriesel
+* [2015] [Traue keinem Scan, den du nicht selbst gefälscht hast](https://media.ccc.de/v/31c3_-_6558_-_de_-_saal_g_-_201412282300_-_traue_keinem_scan_den_du_nicht_selbst_gefalscht_hast_-_david_kriesel) [german] - David Kriesel
 
 ## Unity 3D
 
